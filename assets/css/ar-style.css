@@ -1,0 +1,14 @@
+body, form label.error { font-family: 'Almarai', sans-serif !important; font-size: 17px; font-weight: 400; line-height: 1.9em; }
+h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, #dtr-header-global .nav-link, .dropdown-menu a, dtr-btn { font-family: 'Almarai', sans-serif !important; font-weight: 700; }
+.dtr-sticky-tabs .nav-item:first-child:after { content: none; }
+.dtr-sticky-tabs .nav-item:last-child:after { content: ''; display: inline-block; position: absolute; right: 0; top: 0; height: 100%; width: 1px; }
+.dtr-accordion .btn.btn-link { position: relative; width: 100%; padding: 0px 40px 10px 20px; margin: 0; border: 0; text-decoration: none; text-transform: none; text-align: right !important; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; font-size: 17px; font-weight: 700; -moz-transition: all .3s linear; -o-transition: all .3s linear; -ms-transition: all .3s linear; transition: all .3s linear; }
+.dtr-accordion .btn.btn-link:after { left: 20px !important; top: 50%; right: auto !important; }
+.dtr-rounded-left {border-radius: 0 10px 10px 0 !important;}
+.dtr-rounded-right {border-radius:  10px 0 0 10px !important;} 
+.cust-para{ text-align: justify !important; /* For Edge */
+    -moz-text-align-last: right !important; /* For Firefox prior 58.0 */
+    text-align-last: right !important;
+}
+
+
