@@ -22,7 +22,10 @@ body{overflow-x: hidden !important;}
 .dtr-sm-mb-30px { margin-bottom: 30px; }
 .dtr-sm-mb-50px { margin-bottom: 50px; }
 .dtr-sticky-tabs-nav { display: none; }
-.text-right { text-align: left !important; }
+.text-right { text-align: left !important; 
+}
+.about-image{height: 210px;width: 210px;}
+
 }
 @media (max-width:768px) {
 .dtr-sm-mb-30px { margin-bottom: 30px; }
@@ -38,4 +41,6 @@ body{overflow-x: hidden !important;}
 h1,h2,h3,h4,h5,h6,p,.dtr-list{text-align: center !important;}
 .tabs-icon,.dtr-btn,.dtr-social-list {display: flex !important; justify-content: center !important; align-items: center;}
 .hero-p{width: 100% !important;}
+.about-image{height: 280px;width: 280px;}
+
 }
